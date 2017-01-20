@@ -9,7 +9,7 @@
 
 We will also talk briefly about how PHP can be used to connect to the DB in the next class.
 
-With any good hosting service you get some sort of SSH access which we showed in the [Intro to Ops]() class.  Once you can log in with SSH, you can treat the command line much like you would your own, though some hosting services have limits on what you can install/run and how.
+With any good hosting service you get some sort of SSH access which we showed in the [Intro to Ops](https://github.com/den-wdi-2/intro-to-ops) class.  Once you can log in with SSH, you can treat the command line much like you would your own, though some hosting services have limits on what you can install/run and how.
 
 <!--This is more a trial-and-error experience.  You're trying to find the hosting environment that most suits your needs at the cheapest price, and that's something you unfortunately have to figure out on your own, sometimes the hard way. -->
 
