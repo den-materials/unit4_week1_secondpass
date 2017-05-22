@@ -21,7 +21,7 @@ With any good hosting service you get some sort of SSH access which we showed in
 
 If you are looking to move from CodePen to full-stack "from scratch", you should start with the [React Starter Kit](https://github.com/kriasoft/react-starter-kit).  Read its documentation carefully and get a feel for the file structure before building.
 
-## Dungeon Crawler
+## [Dungeon Crawler](http://codepen.io/ZebGirouard/pen/eZqjLd)
 
 ## WordPress
 
