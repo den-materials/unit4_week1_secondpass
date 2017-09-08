@@ -13,7 +13,9 @@ With any good hosting service you get some sort of SSH access which we showed in
 
 <!--This is more a trial-and-error experience.  You're trying to find the hosting environment that most suits your needs at the cheapest price, and that's something you unfortunately have to figure out on your own, sometimes the hard way. -->
 
-## React Refresh
+## React Materials
+
+If you go to the [den-materials organization](https://github.com/den-materials/) and search for "react" there are a lot of extra topics we did not get time to cover in this class.
 
 [This introduction](https://scotch.io/tutorials/learning-react-getting-started-and-concepts) to React covers most of the ground we covered earlier and a little more.  It's well-worded, and is followed up by one of Scoth's (in)famous tutorials.  They are usually well-presented, but I have seen typos and miswritten code in their tutorials before, so go slowly through [this one](https://scotch.io/tutorials/create-a-simple-to-do-app-with-react).
 
